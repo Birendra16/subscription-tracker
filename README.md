@@ -1,5 +1,7 @@
 # Subscription Tracker API
 
+🌐 Live API: https://subscription-tracker-05tv.onrender.com
+
 A powerful and secure backend application to track and manage all your subscriptions. Built with Node.js and Express, it features automated reminder emails, security integrations, and a robust database structure.
 
 ## Features
